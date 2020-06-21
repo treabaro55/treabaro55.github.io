@@ -1206,9 +1206,11 @@ section.lazy-placeholder:after {
 .cid-s1XPthAlY0 .mbr-text,
 .cid-s1XPthAlY0 .mbr-section-btn {
   color: #e4d295;
+  text-align: left;
 }
 .cid-s1XPthAlY0 .card-title {
   color: #e4d295;
+  text-align: left;
 }
 .cid-s1XPthAlY0 P {
   text-align: center;
